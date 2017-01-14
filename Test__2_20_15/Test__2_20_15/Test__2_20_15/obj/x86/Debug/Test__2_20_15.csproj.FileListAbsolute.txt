@@ -1,0 +1,13 @@
+F:\C#Brah\XNA\ProjectSatellite\Test__2_20_15\Test__2_20_15\Test__2_20_15\obj\x86\Debug\Test__2_20_15.csprojResolveAssemblyReference.cache
+F:\C#Brah\XNA\ProjectSatellite\Test__2_20_15\Test__2_20_15\Test__2_20_15\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\C#Brah\XNA\ProjectSatellite\Test__2_20_15\Test__2_20_15\Test__2_20_15\bin\x86\Debug\Content\TESTEnemy.xnb
+F:\C#Brah\XNA\ProjectSatellite\Test__2_20_15\Test__2_20_15\Test__2_20_15\bin\x86\Debug\Content\TESTPlanet.xnb
+F:\C#Brah\XNA\ProjectSatellite\Test__2_20_15\Test__2_20_15\Test__2_20_15\bin\x86\Debug\Content\TESTSatellite.xnb
+F:\C#Brah\XNA\ProjectSatellite\Test__2_20_15\Test__2_20_15\Test__2_20_15\bin\x86\Debug\Content\fireYO.xnb
+F:\C#Brah\XNA\ProjectSatellite\Test__2_20_15\Test__2_20_15\Test__2_20_15\bin\x86\Debug\Test__2_20_15.exe
+F:\C#Brah\XNA\ProjectSatellite\Test__2_20_15\Test__2_20_15\Test__2_20_15\bin\x86\Debug\Test__2_20_15.pdb
+F:\C#Brah\XNA\ProjectSatellite\Test__2_20_15\Test__2_20_15\Test__2_20_15\obj\x86\Debug\Test__2_20_15.exe
+F:\C#Brah\XNA\ProjectSatellite\Test__2_20_15\Test__2_20_15\Test__2_20_15\obj\x86\Debug\Test__2_20_15.pdb
+F:\C#Brah\XNA\ProjectSatellite\Test__2_20_15\Test__2_20_15\Test__2_20_15\bin\x86\Debug\Content\font.xnb
+F:\C#Brah\XNA\ProjectSatellite\Test__2_20_15\Test__2_20_15\Test__2_20_15\bin\x86\Debug\Content\failure.xnb
+F:\C#Brah\XNA\ProjectSatellite\Test__2_20_15\Test__2_20_15\Test__2_20_15\bin\x86\Debug\Content\FailurePic.xnb

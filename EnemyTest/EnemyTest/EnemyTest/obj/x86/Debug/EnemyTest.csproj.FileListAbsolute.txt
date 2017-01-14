@@ -1,0 +1,7 @@
+F:\C#Brah\XNA\ProjectSatellite\EnemyTest\EnemyTest\EnemyTest\bin\x86\Debug\Content\kermitTheDog.xnb
+F:\C#Brah\XNA\ProjectSatellite\EnemyTest\EnemyTest\EnemyTest\bin\x86\Debug\EnemyTest.exe
+F:\C#Brah\XNA\ProjectSatellite\EnemyTest\EnemyTest\EnemyTest\bin\x86\Debug\EnemyTest.pdb
+F:\C#Brah\XNA\ProjectSatellite\EnemyTest\EnemyTest\EnemyTest\obj\x86\Debug\EnemyTest.csprojResolveAssemblyReference.cache
+F:\C#Brah\XNA\ProjectSatellite\EnemyTest\EnemyTest\EnemyTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\C#Brah\XNA\ProjectSatellite\EnemyTest\EnemyTest\EnemyTest\obj\x86\Debug\EnemyTest.exe
+F:\C#Brah\XNA\ProjectSatellite\EnemyTest\EnemyTest\EnemyTest\obj\x86\Debug\EnemyTest.pdb

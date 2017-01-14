@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>TESTEnemy.png</Source>
+      <Name>TESTEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTest\bin\x86\Debug\Content\TESTEnemy.xnb</Output>
+      <Time>2015-02-12T11:12:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>TESTPlanet.png</Source>
+      <Name>TESTPlanet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTest\bin\x86\Debug\Content\TESTPlanet.xnb</Output>
+      <Time>2015-02-12T11:12:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>TESTSatellite.png</Source>
+      <Name>TESTSatellite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTest\bin\x86\Debug\Content\TESTSatellite.xnb</Output>
+      <Time>2015-02-12T11:12:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTest\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2015-02-12T11:19:28-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{35A995E1-528B-4B09-BEF2-2249984CD658}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTestContent\</RootDirectory>
+      <LoggerRootDirectory>F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTest\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTest\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTest\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T15:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T15:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-02-10T11:48:43.7513373-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

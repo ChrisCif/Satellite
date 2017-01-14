@@ -1,0 +1,2 @@
+F:\C#Brah\XNA\ProjectSatellite\Test__3_18_15\Test__3_18_15\Test__3_18_15Content\obj\x86\Debug\Test__3_18_15Content.contentprojResolveAssemblyReference.cache
+H:\C#Brah\XNA\ProjectSatellite\Test__3_18_15\Test__3_18_15\Test__3_18_15Content\obj\x86\Debug\Test__3_18_15Content.contentprojResolveAssemblyReference.cache

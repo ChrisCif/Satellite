@@ -1,0 +1,4 @@
+Content\TESTEnemy.xnb
+Content\TESTPlanet.xnb
+Content\TESTSatellite.xnb
+Content\myFont.xnb

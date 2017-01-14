@@ -1,0 +1,9 @@
+F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTest\bin\x86\Debug\Content\TESTEnemy.xnb
+F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTest\bin\x86\Debug\Content\TESTPlanet.xnb
+F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTest\bin\x86\Debug\Content\TESTSatellite.xnb
+F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTest\bin\x86\Debug\Content\myFont.xnb
+F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTest\bin\x86\Debug\RotationTest.exe
+F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTest\bin\x86\Debug\RotationTest.pdb
+F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTest\obj\x86\Debug\RotationTest.exe
+F:\C#Brah\XNA\ProjectSatellite\RotationTest\RotationTest\RotationTest\obj\x86\Debug\RotationTest.pdb
